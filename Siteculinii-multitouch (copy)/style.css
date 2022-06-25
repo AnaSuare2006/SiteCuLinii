@@ -1,0 +1,91 @@
+.btnx
+{
+    background-color:#000018;
+    height:80px;
+    width:80px;
+    border-radius: 10px;
+}
+
+.header{
+    display:flex;
+}
+
+.ard{
+    background-color: royalblue;
+    width:20%;
+    height:100vh;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    align-items: center;
+    color: whitesmoke;
+}
+
+.free{
+    height: 650px;
+    width: 400px;
+    padding:200px;
+}
+
+
+svg{
+    position: absolute;
+    top: 0;
+    z-index: -11;
+}
+
+g{
+    z-index: 10;
+}
+
+
+body
+{
+    margin:0px;
+    padding:0px;
+}
+
+.pinx
+{
+    background-color:white;
+    height:80px;
+    width:80px;
+    border-radius: 10px;
+}
+
+.brd{
+    background-color: grey;
+    width:20%;
+    height:100vh;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    align-items: center;
+    color: whitesmoke;
+}
+
+.space
+{
+    width:60%;
+}
+
+input
+{
+    width: 200px;
+    height:50px;
+    background-color: aqua;
+}
+
+.butoane
+{
+    display:flex;
+    padding-bottom:20px;
+
+}
+
+.meniu
+{
+    margin-right:20px;
+    width: 200px;
+    height:100px;
+}
